@@ -1,1 +1,4 @@
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/pKskW7wJ0v0?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h1 align="center">Hey!</h1>
+<p align="center" style="background: black">
+	<img src="https://github-readme-stats.vercel.app/api?username=EthoIRL&bg_color=00000000&title_color=fff&text_color=fff&count_private=true&show_icons=true&hide_border=true" alt="Github Stats"/>
+</p>

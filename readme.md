@@ -1,6 +1,6 @@
 <p align="center">
-	Hey!<br>
-	Discord: Etho#2808
+	Hey!<br><br>
+	Discord: Etho#2808<br>
 	Matrix: @etho_irl:matrix.org
 </p>
 <p float="left" align="center">

@@ -1,44 +1,11 @@
-<style>
-.container {
-	display:flex;
-	
-	justify-content: space-evenly;
-	flex-wrap: wrap;
-	
-	padding: 8px;
-	border-radius: 4px;
-
-	color: #aaa;
-	background-color:#242424;
-}
-
-.child-container {
-	width: 200px; 
-	margin-top: 20px;
-}
-
-.child-header {
-	font-size: 20px;
-	font-weight: bold;
-	margin-bottom: 4px;
-	color: white;
-}
-
-.paragraph-center {
-	margin: 0 auto; 
-	width: min-content; 
-	white-space: nowrap;
-}
-</style>
-
 ### Hey! I'm Etho
 
 ---
 
-<div class="container">
-<div class="child-container">
+<div style="display:flex; justify-content: space-evenly; flex-wrap: wrap; padding: 8px; border-radius: 4px; color: #aaa; background-color:#242424;">
+<div style="width: 200px; margin-top: 20px;">
 
-<p class="child-header">
+<p style="font-size: 20px; font-weight: bold; margin-bottom: 4px; color: white;">
 : Interest Fields
 </p>
 
@@ -51,9 +18,9 @@
 
 </div>
 
-<div class="child-container">
+<div style="width: 200px; margin-top: 20px;">
 
-<p class="child-header">
+<p style="font-size: 20px; font-weight: bold; margin-bottom: 4px; color: white;">
 : Languages
 </p>
 
@@ -70,6 +37,6 @@
 
 ---
 
-<p class="paragraph-center">
+<p style="margin: 0 auto; width: min-content; white-space: nowrap;">
 	Discord: @EthoIRL | Matrix: @etho_irl:matrix.org <br>
 </p>

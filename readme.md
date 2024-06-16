@@ -1,3 +1,36 @@
+<style>
+.container {
+	display:flex;
+	
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	
+	padding: 8px;
+	border-radius: 4px;
+
+	color: #aaa;
+	background-color:#242424;
+}
+
+.child-container {
+	width: 200px; 
+	margin-top: 20px;
+}
+
+.child-header {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 4px;
+	color: white;
+}
+
+.paragraph-center {
+	margin: 0 auto; 
+	width: min-content; 
+	white-space: nowrap;
+}
+</style>
+
 ### Hey! I'm Etho
 
 ---
@@ -40,36 +73,3 @@
 <p class="paragraph-center">
 	Discord: @EthoIRL | Matrix: @etho_irl:matrix.org <br>
 </p>
-
-<style>
-.container {
-	display:flex;
-	
-	justify-content: space-evenly;
-	flex-wrap: wrap;
-	
-	padding: 8px;
-	border-radius: 4px;
-
-	color: #aaa;
-	background-color:#242424;
-}
-
-.child-container {
-	width: 200px; 
-	margin-top: 20px;
-}
-
-.child-header {
-	font-size: 20px;
-	font-weight: bold;
-	margin-bottom: 4px;
-	color: white;
-}
-
-.paragraph-center {
-	margin: 0 auto; 
-	width: min-content; 
-	white-space: nowrap;
-}
-</style>
